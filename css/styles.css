@@ -15,7 +15,7 @@
     --footer-hero-background-color: #2F303A;
     --primary-background-color: #FFFFFF;
     --secondary-background-color: #F5F4FA;
-    --contacts-color: rgba(255, 255, 255, 0,6);
+    --contacts-color: rgba(255, 255, 255, 0.6);
 }
 
 body{
@@ -521,6 +521,7 @@ img{
     margin-top: 9px;
 
     color: var(--contacts-color);
+    
 }
 
 .contact-footer:hover,
